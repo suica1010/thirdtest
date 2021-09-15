@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 ##braA
 ## bramain
+=======
+##braBgacm
+>>>>>>> braB
 # Hello GitGub!cd
 #M name is nawata
 たちつてと
@@ -36,3 +40,5 @@
 - - -
 ## mainEdit in braA
 ## main
+## mainEdit in braB
+
