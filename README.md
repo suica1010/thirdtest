@@ -1,9 +1,14 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ##braA
 ## bramain
 =======
 ##braBgacm
 >>>>>>> braB
+=======
+
+## braC
+>>>>>>> braC
 # Hello GitGub!cd
 #M name is nawata
 たちつてと
